@@ -47,7 +47,3 @@ Hacer un algoritmo que deje al final de un arreglo de números todos los ceros q
 ```python
 
 ```
-Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación).
-```python
-
-```

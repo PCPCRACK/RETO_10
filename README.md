@@ -38,7 +38,12 @@ if __name__ == "__main__":
     #imprimimos el resultado
     print(f"El promedio del arreglo es {promedio}")
 ```
-PD: Casi me da una embolia haciendo este código, no daba ya me iba a dar un ataque
+
+
+
+## PD: Casi me da una embolia haciendo código el primer codigo, no daba ya me iba a dar un ataque.
+
+
 Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
 ```python
 

@@ -1,6 +1,6 @@
 # RETO_10
 
-Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
+1.Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
 ```python
 def promedio():
     
@@ -44,12 +44,12 @@ if __name__ == "__main__":
 ## PD: Casi me da una embolia haciendo código el primer codigo, no daba ya me iba a dar un ataque.
 
 
-Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
+2.Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
 ```python
 
 ```
 
-Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
+3.Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
 ```python
 if __name__ == "__main__":
 

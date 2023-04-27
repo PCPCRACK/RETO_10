@@ -46,7 +46,39 @@ if __name__ == "__main__":
 
 2.Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
 ```python
+from math import cos
+  
 
+if __name__ == "__main__":
+    num = int(input("tamaño del arreglo: "))
+    vect = int(2)
+    b = []
+    sum = float(1)
+    dios = int(2)
+    ayuda = float(0)
+    teta = float(input("algulo entre los dos vectores: "))
+    for j in range(vect):
+        a = []
+        for i in range(num):
+            n = float(input(f"lista del vector {j+1}, dato N° {i+1}: "))
+            n = abs(n)
+            a.append(n)
+        b.append(a)
+    for i in range(len(b)):
+        print(b[i])
+    for j in range(num):
+        for fila in b:
+            if dios%2 == 0:
+                ayuda += fila[j]
+            sum *= fila[j]
+            dios += 1
+
+                
+        print(f"el producto punto de los vectores {1} numero {j+1} y {2} numero {j+1} son (|{ayuda} x {fila[j]}| x cos) = {sum*cos(teta)}")
+        print(sum)
+        sum = 1
+        ayuda = 0
+        dios = 2
 ```
 
 3.Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.

@@ -86,3 +86,4 @@ if __name__ == "__main__":
     # imprimimos el resultado
     print(lista)
 ```
+Revisar que son los algoritmos de *sorting*, entender *bubble-sort* ([enlace](https://www.geeksforgeeks.org/bubble-sort/) a implementación).

@@ -46,9 +46,6 @@ if __name__ == "__main__":
 
 2.Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
 ```python
-# De librerias importa la funcion coseno
-from math import cos 
-  
 if __name__ == "__main__":
 
     # Pide la cantidad de numeros en la lista
